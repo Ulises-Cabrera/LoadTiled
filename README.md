@@ -1,7 +1,7 @@
 # Tiled y LibGDX
 
 
-Ejemplo de uso de Tiled y LibGDX en Android. En el ejemplo se utiliza un mapa hecho por el progra tiled para la creación de mapas.
+Ejemplo de uso de Tiled y LibGDX en Android. En el ejemplo se utiliza un mapa hecho por el programa tiled para la creación de mapas.
 
 En la imagen siguiente se muestra el ejemplo corriendo en android:
 
